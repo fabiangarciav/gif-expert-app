@@ -1,5 +1,3 @@
-
-
 export const CardGif = ({title, url}) => {
 
   return (
